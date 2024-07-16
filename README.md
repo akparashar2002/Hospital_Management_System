@@ -1,0 +1,1 @@
+The Hospital Management System (HMS) is a robust desktop application designed to streamline operations, enhance patient care, and improve overall hospital efficiency within a secure and reliable environment.
